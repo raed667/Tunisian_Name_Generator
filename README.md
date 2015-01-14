@@ -20,4 +20,4 @@ Soon, I'll be adding more possible names, a better gender definition, and a sele
 
 Gender value is at best for indication only and you should not count on it yet for your tests.
 
-I'll be cleaning the code and putting the project on Github ASAP.
+Feel free to contribute 
